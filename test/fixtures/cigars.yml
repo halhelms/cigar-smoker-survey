@@ -1,0 +1,35 @@
+# == Schema Information
+#
+# Table name: cigars
+#
+#  id          :integer          not null, primary key
+#  maker       :string(255)
+#  name        :string(255)
+#  description :text
+#  gauge       :integer
+#  year        :integer
+#  origin      :string(255)
+#  length      :float
+#  created_at  :datetime
+#  updated_at  :datetime
+#
+
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  maker: MyString
+  name: MyString
+  description: MyText
+  gauge: 1
+  year: 1
+  origin: MyString
+  length: 1.5
+
+two:
+  maker: MyString
+  name: MyString
+  description: MyText
+  gauge: 1
+  year: 1
+  origin: MyString
+  length: 1.5

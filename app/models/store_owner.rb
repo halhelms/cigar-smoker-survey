@@ -1,0 +1,2 @@
+class StoreOwner < User
+end

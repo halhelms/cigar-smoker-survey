@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  construction: 1
+  value: 1
+  taste: 1
+  would_recommend: false
+
+two:
+  construction: 1
+  value: 1
+  taste: 1
+  would_recommend: false
