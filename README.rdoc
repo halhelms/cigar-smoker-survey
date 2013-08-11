@@ -1,28 +1,13 @@
-== README
+READ ME
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Our world consists of the following:
 
-Things you may want to cover:
+* Tasters: these are registered users of the site who can post cigars and rate them. Other tasters can up- or down-vote other tasters. The highest rated-tasters' reviews will be featured. Cigar store owners may not rate cigars 
 
-* Ruby version
+* Cigars: Differentiated by maker, name, and the size. So a Perdomo Lot 23, 6 x 52 is a different cigar than a Perdomo Lot 23, 5 x 48
 
-* System dependencies
+* Ratings: Rated only by tasters
 
-* Configuration
+* Stores: Of importance because they mark which of the listed cigars are in their inventory. 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Store owners: registered users who own stores. 
